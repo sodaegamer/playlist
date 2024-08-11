@@ -1,0 +1,203 @@
+{
+   "name": "Free IPTV",
+   "author": "ผู้เฒ่าพเนจร",
+   "url": "https://wandering-oldman.github.io/freetv2238/freetv2238.html",
+   "image": "https://www.dropbox.com/scl/fi/la8nyo5df1j3jw9vhnvnf/.png?rlkey=ejazq5cmz9i8ms9grf66bzazd&dl=1",
+   "info": "ฟรี!!! อย่านำไปจำหน่าย นะจ๊ะ! นะจ๊ะ!",
+		 
+   "groups": [
+
+		 	{
+				"name": "♥ 🇹🇭 Olympic 🇹🇭♥",
+				"image": "https://www.dropbox.com/scl/fi/ox6cjplbsj4cyth2hh464/olympic1-copy.png?rlkey=bj0gb7rzrjz99284ia59z725w&dl=1",
+				"url": "https://www.dropbox.com/scl/fi/yn9cbs4knv40wfp9ok4i0/olympic.w3u?rlkey=o1rafmuh7yvxf0asvj4na24t1&dl=1",
+				"info": "ฟรี!!! อย่านำไปจำหน่าย นะจ๊ะ! นะจ๊ะ!",
+				"import": false},
+
+		 	{
+				"name": "♥ 🇹🇭 DIGITAL TV 🇹🇭♥",
+				"image": "https://www.dropbox.com/scl/fi/pem4o35j4e0sybgtn3k2w/digital-tv.png?rlkey=xy0brzik34jq37jsww3sil9lz&dl=1",
+				"url": "https://wandering-oldman.github.io/digit-tv-by-ais/digital-tv by ais.html",
+				"info": "ฟรี!!! อย่านำไปจำหน่าย นะจ๊ะ! นะจ๊ะ!",
+				"import": false},
+
+			{
+				"name": "♥ 🇹🇭 SPORTS 🇹🇭♥",
+				"image": "https://www.dropbox.com/scl/fi/kh68vetbqzhbht8kfijtp/truesports-1.png?rlkey=8tee1pvqve1iuh4jlweg0dah5&dl=1",
+				"url": "https://wandering-oldman.github.io/sport/sport.html",
+				"info": "ฟรี!!! อย่านำไปจำหน่าย นะจ๊ะ! นะจ๊ะ!",
+				"import": false},
+
+			{
+				"name": "♥ 🇹🇭 Movies Live 🇹🇭♥",
+				"image": "https://www.dropbox.com/scl/fi/lc6jwb0uabercxfwpawob/movieslive.png?rlkey=9qubhekrf1qapz89mo1dmj8zg&dl=1",
+				"url": "https://wandering-oldman.github.io/playidtv-movies/playidtv-movies.html",
+				"info": "ฟรี!!! อย่านำไปจำหน่าย นะจ๊ะ! นะจ๊ะ!",
+				"import": false},
+
+			{
+				"name": "♥ 🇹🇭 Documentary 🇹🇭♥",
+				"image": "https://www.dropbox.com/scl/fi/bebqt3yoynr51smpgs0ed/documentary.png?rlkey=d8mg3hswgfxprq08s3zq65qpr&dl=1",
+				"url": "https://wandering-oldman.github.io/documentary/document.html",
+				"info": "ฟรี!!! อย่านำไปจำหน่าย นะจ๊ะ! นะจ๊ะ!",
+				"import": false},
+			{
+				"name": "♥ 🇹🇭 GoodTV 🇹🇭♥",
+				"image": "https://www.dropbox.com/scl/fi/1agnjv5tbb6qu8v1gdqgm/goodtv.png?rlkey=eekuaoyxnoi1coqd5xvwe0mvn&dl=1",
+				"url": "https://wandering-oldman.github.io/goodtv/good-tv-w3u.html",
+				"info": "ฟรี!!! อย่านำไปจำหน่าย นะจ๊ะ! นะจ๊ะ!",
+				"import": false},
+
+			{
+				"name": "♥ 🇹🇭 Inter Sport 🇹🇭♥",
+				"image": "https://www.dropbox.com/scl/fi/gvothmmv9rbpfb4pdmuc2/inter-sport.png?rlkey=3bilub9m165k8o2c2n5w1paah&dl=1",
+				"url": "https://wandering-oldman.github.io/daddy-hd/daddy-hd.html",
+				"info": "ฟรี!!! อย่านำไปจำหน่าย นะจ๊ะ! นะจ๊ะ!",
+				"import": false},
+
+			{
+				"name": "♥ 🇹🇭 Cartoon 🇹🇭♥",
+				"image": "https://www.dropbox.com/scl/fi/1acr7rsmcpo82duu3l6tz/cartoon.png?rlkey=5ummlan8r8k29cezmlkdkflga&dl=1",
+				"url": "https://wandering-oldman.github.io/cartoon/cartoon.html",
+				"info": "ฟรี!!! อย่านำไปจำหน่าย นะจ๊ะ! นะจ๊ะ!",
+				"import": false},
+
+			{
+				"name": "♥ 🇹🇭 PLAYIDTV 🇹🇭♥",
+				"image": "https://www.dropbox.com/scl/fi/r9enju9h9re19wrk6wx1r/playidtv.png?rlkey=tpxg7xcabaxc1vhga8afq0bld&dl=1",
+				"url": "https://drzl.short.gy/ReZ46l",
+				"info": "ฟรี!!! อย่านำไปจำหน่าย นะจ๊ะ! นะจ๊ะ!",
+				"import": false},
+
+			{
+				"name": "♥ 🇹🇭 Movies & Series 🇹🇭♥",
+				"image": "https://www.dropbox.com/scl/fi/kmb4gj3n2vh8sd64x8xs2/series.png?rlkey=4czmy534jx3duoyyfz9qvbnxr&dl=1",
+				"url": "https://wandering-oldman.github.io/movies-series/movies-series.html",
+				"info": "ฟรี!!! อย่านำไปจำหน่าย นะจ๊ะ! นะจ๊ะ!",
+				"import": false},
+
+
+			{ 
+				"name": "Dookeela", 
+				"image": "https://www.dropbox.com/scl/fi/kd0jkmvbbb0ie4gdmpvu1/dookeela-1.png?rlkey=2oeceupsitrthavcf0l45szxy&dl=1", 
+				"url": "https://www.dropbox.com/scl/fi/mg1b78mdoxfw62642f63x/dookeela.w3u?rlkey=2ls225kqc2nbdbacwx3wfhvg4&dl=1", 		
+				"info": "ฟรี!!! อย่านำไปจำหน่าย นะจ๊ะ! นะจ๊ะ!",
+				"import": false},
+
+			{
+				"name": "♥ 🇹🇭 Sport by doo-tv 🇹🇭♥",
+				"image": "https://www.dropbox.com/scl/fi/la8nyo5df1j3jw9vhnvnf/.png?rlkey=ejazq5cmz9i8ms9grf66bzazd&dl=1",
+				"url": "https://wandering-oldman.github.io/doo-tv-sport/doo-tv-sport.html",
+				"info": "ฟรี!!! อย่านำไปจำหน่าย นะจ๊ะ! นะจ๊ะ!",
+				"import": false},
+
+			{
+				"name": "♥ 🇹🇭 Sport by Daddy-HD 🇹🇭♥",
+				"image": "https://www.dropbox.com/scl/fi/85i4ebwuxghchpaxxy2tu/wandering-oldman-yellow.png?rlkey=94umj569ty3q20am8md5dyrzk&dl=1",
+				"url": "https://wandering-oldman.github.io/daddy-hd/daddy-hd.html",
+				"info": "ฟรี!!! อย่านำไปจำหน่าย นะจ๊ะ! นะจ๊ะ!",
+				"import": false},
+
+			{
+				"name": "♥ 🇹🇭 series by เจียว-เจียว 🇹🇭♥",
+				"image": "https://www.dropbox.com/scl/fi/sodymzcbnmg3xmkbvy3mq/wandering-oldman-green1.png?rlkey=r4nwha4aljlkq1r6yz4x9etnh&dl=1",
+				"url": "https://wandering-oldman.github.io/series-by-juea-juea/series by เจียว-เจียว.html",
+				"info": "ฟรี!!! อย่านำไปจำหน่าย นะจ๊ะ! นะจ๊ะ!",
+				"import": false},
+
+			{
+				"name": "♥ 🇹🇭 Dooseries4K 🇹🇭♥",
+				"image": "https://www.dropbox.com/scl/fi/0vjdqfr5yww4rsarsqycs/Dooseries4K-1.png?rlkey=mxy8hpffwl7uh70e4lia5k36e&dl=1",
+				"url": "https://wandering-oldman.github.io/Dooseries4K/Dooseries4K.html",
+				"info": "ฟรี!!! อย่านำไปจำหน่าย นะจ๊ะ! นะจ๊ะ!",
+				"import": false},
+
+			{
+				"name": "♥ 🇹🇭 anime 🇹🇭♥",
+				"image": "https://www.dropbox.com/scl/fi/m704tirqp25g8zd1qz0gn/.png?rlkey=nzmgj38ou87znc2txwhm22tdd&dl=1",
+				"url": "https://wandering-oldman.github.io/anime/anime.html",
+				"info": "ฟรี!!! อย่านำไปจำหน่าย นะจ๊ะ! นะจ๊ะ!",
+				"import": false},
+
+			{
+				"name": "♥ 🇹🇭 anime-indy 🇹🇭♥",
+				"image": "https://www.dropbox.com/scl/fi/m704tirqp25g8zd1qz0gn/.png?rlkey=nzmgj38ou87znc2txwhm22tdd&dl=1",
+				"url": "https://wandering-oldman.github.io/anime-indy/anime-indy.html",
+				"info": "ฟรี!!! อย่านำไปจำหน่าย นะจ๊ะ! นะจ๊ะ!",
+				"import": false},
+
+			{
+				"name": "♥ 🇹🇭 anemi-พากย์ไทย. 🇹🇭♥",
+				"image": "https://www.dropbox.com/scl/fi/m704tirqp25g8zd1qz0gn/.png?rlkey=nzmgj38ou87znc2txwhm22tdd&dl=1",
+				"url": "https://wandering-oldman.github.io/anemi-thaisound/anemi-พากย์ไทย.html",
+				"info": "ฟรี!!! อย่านำไปจำหน่าย นะจ๊ะ! นะจ๊ะ!",
+				"import": false},
+
+			{
+				"name": "♥ 🇹🇭 anemi-subthai. 🇹🇭♥",
+				"image": "https://www.dropbox.com/scl/fi/m704tirqp25g8zd1qz0gn/.png?rlkey=nzmgj38ou87znc2txwhm22tdd&dl=1",
+				"url": "https://wandering-oldman.github.io/anemi-subthai/anemi-subthai.html",
+				"info": "ฟรี!!! อย่านำไปจำหน่าย นะจ๊ะ! นะจ๊ะ!",
+				"import": false},
+
+			{
+				"name": "♥ 🇹🇭 cartoon 🇹🇭♥",
+				"image": "https://www.dropbox.com/scl/fi/m704tirqp25g8zd1qz0gn/.png?rlkey=nzmgj38ou87znc2txwhm22tdd&dl=1",
+				"url": "https://wandering-oldman.github.io/cartoon/cartoon.html",
+				"info": "ฟรี!!! อย่านำไปจำหน่าย นะจ๊ะ! นะจ๊ะ!",
+				"import": false},
+
+			{
+				"name": "♥ 🇹🇭 conan-series 🇹🇭♥",
+				"image": "https://www.dropbox.com/scl/fi/m704tirqp25g8zd1qz0gn/.png?rlkey=nzmgj38ou87znc2txwhm22tdd&dl=1",
+				"url": "https://wandering-oldman.github.io/conan-series/conan.html",
+				"info": "ฟรี!!! อย่านำไปจำหน่าย นะจ๊ะ! นะจ๊ะ!",
+				"import": false},
+
+			{
+				"name": "♥ 🇹🇭 9nunghd 🇹🇭♥",
+				"image": "https://www.dropbox.com/scl/fi/m704tirqp25g8zd1qz0gn/.png?rlkey=nzmgj38ou87znc2txwhm22tdd&dl=1",
+				"url": "https://wandering-oldman.github.io/9nunghd/9nunghd.html",
+				"info": "ฟรี!!! อย่านำไปจำหน่าย นะจ๊ะ! นะจ๊ะ!",
+				"import": false},
+
+			{
+				"name": "♥ 🇹🇭 inter-series-moviefree247 🇹🇭♥",
+				"image": "https://www.dropbox.com/scl/fi/la8nyo5df1j3jw9vhnvnf/.png?rlkey=ejazq5cmz9i8ms9grf66bzazd&dl=1",
+				"url": "https://wandering-oldman.github.io/inter-series-moviefree247.com/inter-series.html",
+				"info": "ฟรี!!! อย่านำไปจำหน่าย นะจ๊ะ! นะจ๊ะ!",
+				"import": false},
+
+			{ 
+				"name": "Dookeela", 
+				"image": "https://www.dropbox.com/scl/fi/kd0jkmvbbb0ie4gdmpvu1/dookeela-1.png?rlkey=2oeceupsitrthavcf0l45szxy&dl=1", 
+				"url": "https://freenote.biz/raw/nb21j9sxb0", 		
+				"info": "ฟรี!!! อย่านำไปจำหน่าย นะจ๊ะ! นะจ๊ะ!",
+				"import": false},
+
+		 	{
+				"name": "♥ 🇹🇭 Olympic-true 🇹🇭♥",
+				"image": "https://www.dropbox.com/scl/fi/ox6cjplbsj4cyth2hh464/olympic1-copy.png?rlkey=bj0gb7rzrjz99284ia59z725w&dl=1",
+				"url": "https://www.dropbox.com/scl/fi/mmk1admaau558fex3bif6/olympic-true.w3u?rlkey=tayd2hpakzrjh8o5c3l85ulah&dl=1",
+				"info": "ฟรี!!! อย่านำไปจำหน่าย นะจ๊ะ! นะจ๊ะ!",
+				"import": false},
+
+		 	{
+				"name": "♥ 🇹🇭 SERIES 🇹🇭♥",
+				"image": "https://www.dropbox.com/scl/fi/40nkwpmpdmf7y6ph757hq/series.png?rlkey=9kt38pl426qdaqlq2ltd7ft1p&dl=1",
+				"url": "https://www.dropbox.com/scl/fi/v5e24lbrpxnvfanygymba/chiness-korea-series-main.w3u?rlkey=crh1sxrakm7p4m96crbwgnshl&dl=1",
+				"info": "ฟรี!!! อย่านำไปจำหน่าย นะจ๊ะ! นะจ๊ะ!",
+				"import": false},
+
+		 	{
+				"name": "♥ 🇹🇭 SERIES 🇹🇭♥",
+				"image": "https://www.dropbox.com/scl/fi/40nkwpmpdmf7y6ph757hq/series.png?rlkey=9kt38pl426qdaqlq2ltd7ft1p&dl=1",
+				"url": "https://raw.githubusercontent.com/doonungfreefree/free/blob/tree/main/%E0%B8%AB%E0%B8%B2%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3%E0%B8%94%E0%B8%B9%E0%B9%86%E0%B9%84%E0%B8%9B%E0%B8%81%E0%B9%87%E0%B8%9E%E0%B8%AD%E0%B9%81%E0%B8%A5%E0%B9%89%E0%B8%A7%E0%B8%99%E0%B8%B0/wiseplay%E0%B8%9E%E0%B8%B9%E0%B8%94%E0%B8%84%E0%B8%B8%E0%B8%A2by%E0%B8%AD%E0%B8%B8%E0%B9%8B%E0%B8%87%E0%B8%AD%E0%B8%B8%E0%B9%8B%E0%B8%87/%E0%B9%80%E0%B8%88%E0%B8%B5%E0%B8%A2%E0%B8%A7%E0%B9%80%E0%B8%88%E0%B8%B5%E0%B8%A2%E0%B8%A7.txt 
+",
+				"info": "ฟรี!!! อย่านำไปจำหน่าย นะจ๊ะ! นะจ๊ะ!",
+				"import": false},
+
+
+
+]
+}
